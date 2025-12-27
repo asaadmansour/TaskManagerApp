@@ -1,2 +1,3 @@
-#Task Manager App
-ITI'S git first lab 
+# Task Manager App
+
+This project was created as part of the ITI Git first lab.
